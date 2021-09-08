@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915762787095",
+    "project_id": "fidisysgame-cc5d0",
+    "storage_bucket": "fidisysgame-cc5d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915762787095:android:d3bedac86aa59a420dbd52",
+        "android_client_info": {
+          "package_name": "com.fidisys.fidigames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915762787095-15c7vin1j1shtckt59gk1q98ilel0gk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFh-7mFz11svUPUIYwXCmAnYKfB4xf7uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915762787095-15c7vin1j1shtckt59gk1q98ilel0gk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
